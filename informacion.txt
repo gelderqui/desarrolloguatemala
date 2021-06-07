@@ -1,2 +1,0 @@
-Sistema Para grupos gestores PHP Laravel 5.6, VueJS, MariaDB - Bootstrap 3
-
